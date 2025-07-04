@@ -83,3 +83,15 @@
 
         return 0;
     }
+
+## Coding Style
+
+1. 변수, 함수 등 명명은 헝가리안 표기법
+
+2. class, struct 는 대문자로 시작하고 함수객체를 FO 앞첨자, 클래스의 경우 뒷첨자로 Type
+
+## 개발환경 
+
+for Window : Visual Studio
+
+for Mac : VS Code + g++ + lldb
