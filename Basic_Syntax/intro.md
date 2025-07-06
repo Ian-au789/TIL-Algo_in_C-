@@ -95,5 +95,3 @@
 for Window : Visual Studio
 
 for Mac : VS Code + g++ + lldb
-
-# starting tommoreow
