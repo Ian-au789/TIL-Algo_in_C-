@@ -13,3 +13,14 @@
 - C++ 에서는 기본 자료형으로 정의 한것을 변수, 사용자 정의 자료형으로 정의한 것을 객체라고 부름
 
 
+## Primitive data types
+
+- bool : boolean, 1byte
+- char : character, 1byte
+- wchar_t : wide character, 4byte
+- int : integer, 4 byte
+- double : double precision floating point number, 8 byte
+- void 
+
+- 정수를 다루는 자료형은 2의 보수로 음수 값 표현
+- unsigned를 함께 사용하면 자연수만 표현
